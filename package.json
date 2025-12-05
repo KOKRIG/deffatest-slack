@@ -21,7 +21,7 @@
     "url": "https://github.com/KOKRIG/deffatest-slack.git"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "20.x"
   },
   "dependencies": {
     "@slack/bolt": "^3.17.0",
